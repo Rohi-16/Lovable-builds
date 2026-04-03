@@ -7,6 +7,13 @@ A running list of apps and websites I've shipped using [Lovable](https://lovable
 
 ---
 
+[AnalyseIQ](https://insight-gem-ai.lovable.app)
+
+All-in-one AI text analyzer. Paste any content and instantly run 21 deep analysis modes, tone, sentiment, bias, subtext, clarity, and more.
+
+
+---
+
 ### [The Single Company](https://thesinglecompany.lovable.app)
 Website for an AI automation agency. Built to communicate what automation actually does for businesses.
 
