@@ -7,7 +7,7 @@ A running list of apps and websites I've shipped using [Lovable](https://lovable
 
 ---
 
-[AnalyseIQ](https://insight-gem-ai.lovable.app)
+### [AnalyseIQ](https://insight-gem-ai.lovable.app)
 
 All-in-one analyzer. Paste any content and instantly run 21 deep analysis modes, tone, sentiment, bias, subtext, clarity, and more.
 
